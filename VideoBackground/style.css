@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-transform: capitalize;
+  font-family: sans-serif;
+}
+
+#main_video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+#content {
+  background: rgba(0, 0, 0, 0.4);
+  color: #f1f1f1;
+  position: fixed;
+  width: 100%;
+  top: auto;
+  bottom: 0;
+  border: 1px solid lightgreen ;
+  padding: 30px;
+}
+
+#content h2{
+    font-size: 2rem;
+    padding-bottom: 2px;
+}
+
+#content p{
+    font-size: 1.2rem;
+    padding: 10px 0;
+}
+
+#btn{
+  padding: 5px;
+  border-radius: 6%;
+  width: 15%;
+  background-color: grey;
+  color: white;
+  font-size: 1.2rem;
+}
+
+#btn:hover{
+  background-color: white;
+  color: black;
+}

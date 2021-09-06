@@ -1,0 +1,68 @@
+* {
+  margin: 0%;
+  border: 0;
+  font-size: 0.875;
+  font-family: monospace;
+}
+
+/* Body */
+body {
+  height: 100%;
+  background-color: red;
+  width: 100vw;
+}
+
+/* NAVBAR STYLES */
+
+nav {
+  background-color: lightgreen;
+  font-size: 2rem;
+  position: relative;
+}
+
+.navbar-top h4 {
+  text-align: center;
+  color: rgb(44, 43, 43);
+  padding: 1.5rem;
+}
+
+/* Content Main */
+.content-main{
+    /* background-color: black;
+    color: white; */
+    text-align: center;
+    margin-top: 15%;
+    height: 15vh;
+    display: grid;
+}
+.content-main div{
+    background-color: rgb(29, 24, 24);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    padding: 15px;
+    border-radius: 25px;
+    font-size: 3rem;
+}
+
+    .bg-heading{
+        text-transform: uppercase;
+    }
+
+/* Button */
+.content-button{
+    font-weight: 900;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    margin: 20px;
+    padding: 20px;
+    font-size: 2rem;
+    position: absolute;
+    left: 43%;
+    border-radius: 10px;
+    background-color: gold;
+    color: black;
+}
+
+/* Button */
