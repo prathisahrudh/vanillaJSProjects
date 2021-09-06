@@ -13,12 +13,12 @@ I have created some things using HTML , CSS and JS
 	* clearInterval()  : To clear setInterval() 
 2. A Counter : 
   #### WIL :
-	* document.querySelector()
-	* callaback function  
+   * document.querySelector()
+   * callaback function  
 3. Hex Color Flipper 
   #### WIL: 
-	* Math.random()
-	* Bit of arrays
+   * Math.random()
+   * Bit of arrays
 4. A Modal 
    #### WIL : 
 	* Block Elements 
@@ -31,6 +31,6 @@ I have created some things using HTML , CSS and JS
    #### WIL :
 	* (_) is written in function but '_' is never used generally. 
 	* overflow in css
-- Video Background :
+7. Video Background :
    #### WIL :
 	* video.play() & video.play()
